@@ -1,3 +1,6 @@
+---
+permalink: /404.html
+---
 // ✅ To-Do List
 function addTask() {
   const taskInput = document.getElementById('taskInput');
